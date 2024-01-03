@@ -16,5 +16,7 @@ AddTwoNumbers solution
 https://leetcode.com/problems/add-two-numbers/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/4f1ea1a7-4648-4333-9b33-5e11f696168e)
 
-
-
+## Day3
+LengthOfLongestSubstring solution
+[https://leetcode.com/problems/add-two-numbers/](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/87bdd24b-f9d0-409d-99ac-800edfb79588)
