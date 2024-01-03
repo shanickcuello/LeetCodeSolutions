@@ -10,13 +10,13 @@ public static class LengthOfLongestSubstringSolution
 
         for (int i = 0; i < s.Length; i++)
         {
-            var charEvalated = s[i];
-            if (amountOfCharsPerSubstring.ContainsKey(charEvalated) && amountOfCharsPerSubstring[charEvalated] >= startIndexOfSubstrings)
+            var charEvaluated = s[i];
+            if (amountOfCharsPerSubstring.ContainsKey(charEvaluated) && amountOfCharsPerSubstring[charEvaluated] >= startIndexOfSubstrings)
             {
-                startIndexOfSubstrings = amountOfCharsPerSubstring[charEvalated] + 1;
+                startIndexOfSubstrings = amountOfCharsPerSubstring[charEvaluated] + 1;
             }
 
-            amountOfCharsPerSubstring[charEvalated] = i;
+            amountOfCharsPerSubstring[charEvaluated] = i;
             int currentLength = i - startIndexOfSubstrings + 1;
 
             maxAmountOfCharsFromSubstringWithoutRepeating = Math.Max(maxAmountOfCharsFromSubstringWithoutRepeating, currentLength);
