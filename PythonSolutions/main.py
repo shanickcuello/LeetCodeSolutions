@@ -1,16 +1,24 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+from collections import Counter
+from typing import List
 
 
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+def min_operations(nums: List[int]) -> int:
+    ans = {}
+    for val in nums:
+        ans[val] = ans.get(val, 0) + 1
+    count = 0
+    for i in ans.keys():
+        k = ans[i]
+        if k < 2:
+            return -1
+        elif k % 3 == 0:
+            count += k // 3
+        elif k % 3 == 1 or k % 3 == 2:
+            count += k // 3 + 1
+    return count
 
+result = min_operations([14,12,14,14,12,14,14,12,12,12,12,14,14,12,14,14,14,12,12])
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('PyCharm')
+    print(result)
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
