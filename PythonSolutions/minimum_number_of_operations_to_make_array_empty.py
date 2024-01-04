@@ -1,5 +1,5 @@
+#https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty
 from typing import List
-
 
 def min_operations(nums: List[int]) -> int:
     ans = {}
