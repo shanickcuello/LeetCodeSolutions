@@ -1,13 +1,17 @@
 from typing import List
-from collections import Counter
 
 
 def min_operations(nums: List[int]) -> int:
-    counter = Counter(nums)
-    operations = 0
-    for key in counter:
-        if counter[key] % 3 == 0 or counter[key] % 2 == 0:
-            operations += 1
-        else:
+    ans = {}
+    for val in nums:
+        ans[val] = ans.get(val, 0) + 1
+    count = 0
+    for i in ans.keys():
+        k = ans[i]
+        if k < 2:
             return -1
-    return operations
+        elif k % 3 == 0:
+            count += k // 3
+        elif k % 3 == 1 or k % 3 == 2:
+            count += k // 3 + 1
+    return count
