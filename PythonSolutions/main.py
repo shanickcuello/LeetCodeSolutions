@@ -1,11 +1,5 @@
-import minimum_number_of_operations_to_make_array_empty
+from longest_increasing_subsequence import LongestIncreasingSubsequence
 
-result = minimum_number_of_operations_to_make_array_empty.min_operations([1,1,1])
-result1 = minimum_number_of_operations_to_make_array_empty.min_operations([1,1,1,1])
-result2 = minimum_number_of_operations_to_make_array_empty.min_operations([1,1,1,1,2])
-result3 = minimum_number_of_operations_to_make_array_empty.min_operations([1,1,1,1,2,2])
-result4 = minimum_number_of_operations_to_make_array_empty.min_operations([1,1,1,1,2,2,2])
-
+result = LongestIncreasingSubsequence.lengthOfLIS([10,9,2,5,3,7,101,18])
 if __name__ == '__main__':
-    print(result1, result2, result3, result4)
-
+    print(result)

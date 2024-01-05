@@ -15,3 +15,6 @@ def min_operations(nums: List[int]) -> int:
         elif k % 3 == 1 or k % 3 == 2:
             count += k // 3 + 1
     return count
+
+if __name__ == '__main__':
+    min_operations([0,0,0,0,0,0,0,0,0,0,0,0,0])
