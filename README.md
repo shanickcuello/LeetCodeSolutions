@@ -26,3 +26,8 @@ Minimum number of operations to make array empty solution in Python3
 https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/5b2a2a08-12b4-41b1-98e5-2e5c50a418e5)
 
+## Day5
+Longest increasing subsequence 
+https://leetcode.com/problems/longest-increasing-subsequence
+<img width="432" alt="image" src="https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/c1222e82-d591-49ca-87e9-589cf1d61661">
+
