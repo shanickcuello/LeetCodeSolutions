@@ -35,3 +35,8 @@ https://leetcode.com/problems/longest-increasing-subsequence
 Maximum Profit in Job Scheduling
 [https://leetcode.com/problems/longest-increasing-subsequence](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/2359cc8d-ee1b-44bb-8746-a3e7a1a424f8)
+
+## Day7
+Excel Sheet Column Title
+https://leetcode.com/problems/excel-sheet-column-title/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/fd0002ef-71cc-486a-96ba-015a2456efa0)
