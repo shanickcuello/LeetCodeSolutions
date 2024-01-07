@@ -31,3 +31,7 @@ Longest increasing subsequence
 https://leetcode.com/problems/longest-increasing-subsequence
 <img width="432" alt="image" src="https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/c1222e82-d591-49ca-87e9-589cf1d61661">
 
+## Day6
+Maximum Profit in Job Scheduling
+[https://leetcode.com/problems/longest-increasing-subsequence](https://leetcode.com/problems/maximum-profit-in-job-scheduling)
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/2359cc8d-ee1b-44bb-8746-a3e7a1a424f8)
