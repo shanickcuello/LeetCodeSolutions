@@ -40,3 +40,8 @@ Maximum Profit in Job Scheduling
 Excel Sheet Column Title
 https://leetcode.com/problems/excel-sheet-column-title/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/fd0002ef-71cc-486a-96ba-015a2456efa0)
+
+## Day8
+Find the difference
+https://leetcode.com/problems/find-the-difference
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/2ac9fb8b-ca80-433a-9740-9a65633dc59d)
