@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BX3cv6yxxV/DLRxauzFnqinPfTQXKKCzVHz1ZTRf+6O89cohMxtwCEd3f5cX/mw/4k+x7aoWFzZ3GG/jdrXvOA==",
+  "dgSpecHash": "k8g1e10T5aeVx9vGTLSH9/wPybaqNlFq9/8wXp9NRzI7WF3BCrO2ycVJC7pU4QoOVZ/yxQhQxmG4FfFGHZSUHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shani\\projects\\LeetCodeSolutions\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
+  "projectFilePath": "C:\\Users\\shani\\projects\\LeetCodeSolutions\\C#Solutions\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
