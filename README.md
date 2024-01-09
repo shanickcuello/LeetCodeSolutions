@@ -45,3 +45,8 @@ https://leetcode.com/problems/excel-sheet-column-title/
 Find the difference
 https://leetcode.com/problems/find-the-difference
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/2ac9fb8b-ca80-433a-9740-9a65633dc59d)
+
+## Day9
+Palindrome number
+https://leetcode.com/problems/palindrome-number/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/912b4bdb-7e19-4fc8-a36b-3b24cb95d6c6)
