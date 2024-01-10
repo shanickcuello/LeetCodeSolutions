@@ -50,3 +50,9 @@ https://leetcode.com/problems/find-the-difference
 Palindrome number
 https://leetcode.com/problems/palindrome-number/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/912b4bdb-7e19-4fc8-a36b-3b24cb95d6c6)
+
+## Day10
+Roman number to int
+https://leetcode.com/problems/roman-to-integer
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/d2521661-b692-4428-b48d-6558519e6dd3)
+
