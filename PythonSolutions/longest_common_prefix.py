@@ -13,8 +13,13 @@ def longest_common_prefix(list_of_words):
 
     return first_str
 
+
 if __name__ == '__main__':
-    strs1 = ["flower", "flow", "flight"]
-    print(longest_common_prefix(strs1))
-    strs2 = ["dog", "racecar", "car"]
-    print(longest_common_prefix(strs2))
+    list_of_words = ["flower", "flow", "flight"]
+    print(longest_common_prefix(list_of_words))
+    list_of_words2 = ["dog", "racecar", "car"]
+    print(longest_common_prefix(list_of_words2))
+    list_of_words3 = ["11123", "112345", "111111"]
+    print(longest_common_prefix(list_of_words3))
+    list_of_words4 = ["aar", "aa", "aaafaa", "aaff"]
+    print(longest_common_prefix(list_of_words4))
