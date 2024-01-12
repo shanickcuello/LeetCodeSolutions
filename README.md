@@ -56,3 +56,8 @@ Roman number to int
 https://leetcode.com/problems/roman-to-integer
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/d2521661-b692-4428-b48d-6558519e6dd3)
 
+## Day11
+Longest Common Prefix
+https://leetcode.com/problems/longest-common-prefix
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/8288a40b-333e-410e-ab8f-34ede7aa18db)
+
