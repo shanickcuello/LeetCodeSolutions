@@ -61,3 +61,9 @@ Longest Common Prefix
 https://leetcode.com/problems/longest-common-prefix
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/8288a40b-333e-410e-ab8f-34ede7aa18db)
 
+## Day12
+Valid Parenthesis
+https://leetcode.com/problems/valid-parentheses
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/e0151ed0-1a9a-46ec-be79-c180f981e6cf)
+
+
