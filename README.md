@@ -70,3 +70,8 @@ https://leetcode.com/problems/valid-parentheses
 Shuffle the Array
 https://leetcode.com/problems/shuffle-the-array
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/97e26c4d-242f-4e75-8ca3-040007783b63)
+
+## Day14
+Merge two sorted list
+https://leetcode.com/problems/merge-two-sorted-lists/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/a25051ea-7501-43f8-96b4-f43c313145b9)
