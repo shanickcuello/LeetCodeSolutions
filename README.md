@@ -66,4 +66,7 @@ Valid Parenthesis
 https://leetcode.com/problems/valid-parentheses
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/e0151ed0-1a9a-46ec-be79-c180f981e6cf)
 
-
+## Day13
+Shuffle the Array
+https://leetcode.com/problems/shuffle-the-array
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/97e26c4d-242f-4e75-8ca3-040007783b63)
