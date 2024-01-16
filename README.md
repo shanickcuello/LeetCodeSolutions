@@ -75,3 +75,9 @@ https://leetcode.com/problems/shuffle-the-array
 Merge two sorted list
 https://leetcode.com/problems/merge-two-sorted-lists/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/a25051ea-7501-43f8-96b4-f43c313145b9)
+
+## Day 15
+Remove duplicated
+https://leetcode.com/problems/remove-duplicates-from-sorted-array
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/dd447cee-91ea-4c11-8d26-f68594ff2519)
+
