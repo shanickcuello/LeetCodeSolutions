@@ -21,7 +21,7 @@ def remove_duplicates(nums: List[int]) -> int:
             non_duplicates.append(num)
 
     nums[:] = non_duplicates
-    return len(nums)
+    return len(non_duplicates)
 
 
 if __name__ == '__main__':
