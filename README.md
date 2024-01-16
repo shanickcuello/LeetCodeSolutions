@@ -81,3 +81,8 @@ Remove duplicated
 https://leetcode.com/problems/remove-duplicates-from-sorted-array
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/dd447cee-91ea-4c11-8d26-f68594ff2519)
 
+## Day 16
+Randomized set
+https://leetcode.com/problems/insert-delete-getrandom-o1
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/1ec0e396-37b0-404f-a277-a11eb5e615c7)
+
