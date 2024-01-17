@@ -86,3 +86,9 @@ Randomized set
 https://leetcode.com/problems/insert-delete-getrandom-o1
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/1ec0e396-37b0-404f-a277-a11eb5e615c7)
 
+## Day 17
+Unique Number of Occurrences
+https://leetcode.com/problems/unique-number-of-occurrences
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/fcd8bf8b-a2f0-45ba-8b99-b23e484e318a)
+
+
