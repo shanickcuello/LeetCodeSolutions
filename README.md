@@ -91,4 +91,9 @@ Unique Number of Occurrences
 https://leetcode.com/problems/unique-number-of-occurrences
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/fcd8bf8b-a2f0-45ba-8b99-b23e484e318a)
 
+## Day 18
+Climb stairs
+https://leetcode.com/problems/climbing-stairs/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/2aa9803c-b648-43ac-abe9-a8245286f603)
+
 
