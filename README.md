@@ -101,3 +101,8 @@ Length of Last Word
 https://leetcode.com/problems/length-of-last-word
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/11f06841-2a77-45f2-8ce0-70769f38dd6e)
 
+## 20
+Search insert position
+https://leetcode.com/problems/search-insert-position
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/26eaafef-6234-4788-a52b-e4d180bb9424)
+
