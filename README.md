@@ -113,3 +113,9 @@ https://github.com/shanickcuello/LeetCodeSolutions
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/8181aa3a-f78a-40ef-a263-029d4021ee9f)
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/096e7fb8-98c4-46dc-b652-f9ae9137f638)
 
+## Day 22
+Set mismatch
+https://leetcode.com/problems/set-mismatch/description
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/97512c56-0b0e-4e4e-b649-a7a720688791)
+
+
