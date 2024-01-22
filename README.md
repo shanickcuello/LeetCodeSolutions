@@ -96,13 +96,20 @@ Climb stairs
 https://leetcode.com/problems/climbing-stairs/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/2aa9803c-b648-43ac-abe9-a8245286f603)
 
-## 19
+## Day 19
 Length of Last Word
 https://leetcode.com/problems/length-of-last-word
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/11f06841-2a77-45f2-8ce0-70769f38dd6e)
 
-## 20
+## Day 20
 Search insert position
 https://leetcode.com/problems/search-insert-position
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/26eaafef-6234-4788-a52b-e4d180bb9424)
+
+## Day 21
+Rob
+Two submissions this time.
+https://github.com/shanickcuello/LeetCodeSolutions
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/8181aa3a-f78a-40ef-a263-029d4021ee9f)
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/096e7fb8-98c4-46dc-b652-f9ae9137f638)
 
