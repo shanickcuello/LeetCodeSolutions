@@ -122,3 +122,9 @@ https://leetcode.com/problems/set-mismatch/description
 Remove element
 https://leetcode.com/problems/remove-element
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/830b17b0-4abd-4eb9-a77f-a9d538e02023)
+
+## Day 24
+Pseudo palindromic paths
+https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/02a70ec4-2708-48dd-bc5f-29d56fafc511)
+
