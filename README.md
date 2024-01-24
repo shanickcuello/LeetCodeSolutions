@@ -118,4 +118,7 @@ Set mismatch
 https://leetcode.com/problems/set-mismatch/description
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/97512c56-0b0e-4e4e-b649-a7a720688791)
 
-
+## Day 23
+Remove element
+https://leetcode.com/problems/remove-element
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/830b17b0-4abd-4eb9-a77f-a9d538e02023)
