@@ -128,3 +128,7 @@ Pseudo palindromic paths
 https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/02a70ec4-2708-48dd-bc5f-29d56fafc511)
 
+## Day 25
+Plus one
+https://leetcode.com/problems/plus-one
+<img width="468" alt="image" src="https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/748f0737-f0ae-451b-ac85-310f75942e03">
