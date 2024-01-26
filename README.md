@@ -132,3 +132,9 @@ https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree
 Plus one
 https://leetcode.com/problems/plus-one
 <img width="468" alt="image" src="https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/748f0737-f0ae-451b-ac85-310f75942e03">
+
+## Day 26
+Add binary
+https://leetcode.com/problems/add-binary/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/52ac7a3e-4daa-4e76-aa69-d1c89cfc1ef0)
+
