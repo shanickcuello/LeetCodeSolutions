@@ -138,3 +138,7 @@ Add binary
 https://leetcode.com/problems/add-binary/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/52ac7a3e-4daa-4e76-aa69-d1c89cfc1ef0)
 
+## Day 27
+Delete duplicates
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/93d73b25-be53-4bd4-aa57-01f596d6aa61)
