@@ -142,3 +142,15 @@ https://leetcode.com/problems/add-binary/
 Delete duplicates
 https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/93d73b25-be53-4bd4-aa57-01f596d6aa61)
+
+## Day 28 
+Merge Sorted Array
+https://leetcode.com/problems/merge-sorted-array/description/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/f6d3c148-e269-4e0f-a403-20be9959135f)
+
+## Day 29
+Custom Sqrt
+https://leetcode.com/problems/sqrtx/
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/079d604b-b976-4215-bafc-820d1660939e)
+
+
