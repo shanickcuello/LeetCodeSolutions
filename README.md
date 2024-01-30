@@ -153,4 +153,8 @@ Custom Sqrt
 https://leetcode.com/problems/sqrtx/
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/079d604b-b976-4215-bafc-820d1660939e)
 
+## Day 30
+Occurrence of partial string
+https://github.com/shanickcuello/LeetCodeSolutions
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/8a5643f7-151c-4e15-a1c4-2d3e7a0777bb)
 
