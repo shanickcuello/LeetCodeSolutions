@@ -158,3 +158,10 @@ Occurrence of partial string
 https://github.com/shanickcuello/LeetCodeSolutions
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/8a5643f7-151c-4e15-a1c4-2d3e7a0777bb)
 
+## Day 31
+Permutation Sequence
+https://leetcode.com/problems/permutation-sequence
+![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/d2f85a5a-b7a2-4a56-9bd9-42e78787f843)
+
+
+The end :) 
