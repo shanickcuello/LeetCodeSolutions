@@ -163,5 +163,12 @@ Permutation Sequence
 https://leetcode.com/problems/permutation-sequence
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/d2f85a5a-b7a2-4a56-9bd9-42e78787f843)
 
+Im back doing this challenges :)
+03/10/24 I did some pair programming with [Sophivorus](https://github.com/Sophivorus)
+We did the [Palindrome](https://leetcode.com/problems/longest-palindrome/description/) challenge. We still need to make ir more performance but im happy to learn some Javascript in the process  
+![image](https://github.com/user-attachments/assets/ed1cb75f-8d42-4a99-9bd8-a0bed8f2dc17)
 
-The end :) 
+Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/b207cefbbdc9a946813abbaa79d966351496f9dd)! 
+
+
+
