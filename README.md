@@ -166,9 +166,9 @@ https://leetcode.com/problems/permutation-sequence
 Im back doing this challenges :)
 03/10/24 I did some pair programming with [Sophivorus](https://github.com/Sophivorus)
 We did the [Palindrome](https://leetcode.com/problems/longest-palindrome/description/) challenge. We still need to make ir more performance but im happy to learn some Javascript in the process  
+Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/b207cefbbdc9a946813abbaa79d966351496f9dd)! 
 ![image](https://github.com/user-attachments/assets/ed1cb75f-8d42-4a99-9bd8-a0bed8f2dc17)
 
-Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/b207cefbbdc9a946813abbaa79d966351496f9dd)! 
 
 
 
