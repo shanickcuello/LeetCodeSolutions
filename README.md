@@ -163,6 +163,8 @@ Permutation Sequence
 https://leetcode.com/problems/permutation-sequence
 ![image](https://github.com/shanickcuello/LeetCodeSolutions/assets/44624042/d2f85a5a-b7a2-4a56-9bd9-42e78787f843)
 
+# Palindrome (Javascript)
+
 Im back doing this challenges :)
 03/10/24 I did some pair programming with [Sophivorus](https://github.com/Sophivorus)
 We did the [Palindrome](https://leetcode.com/problems/longest-palindrome/description/) challenge. We still need to make ir more performance but im happy to learn some Javascript in the process  
