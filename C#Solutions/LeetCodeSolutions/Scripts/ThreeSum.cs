@@ -1,3 +1,4 @@
+namespace ThreeSum{
 public class Solution {
     public IList<IList<int>> ThreeSum(int[] nums) {
         Array.Sort(nums);
@@ -29,4 +30,5 @@ public class Solution {
         }
         return result;
     }
+}
 }
