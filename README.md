@@ -171,6 +171,12 @@ We did the [Palindrome](https://leetcode.com/problems/longest-palindrome/descrip
 Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/b207cefbbdc9a946813abbaa79d966351496f9dd)! 
 ![image](https://github.com/user-attachments/assets/ed1cb75f-8d42-4a99-9bd8-a0bed8f2dc17)
 
+# 704. Binary Search (C#)
+[Leetcode challenge](https://leetcode.com/problems/binary-search/submissions/1618645634/)
+
+<img width="702" alt="image" src="https://github.com/user-attachments/assets/55c2db29-7fc9-46a3-9662-f6ec50f6c8cf" />
+
+
 
 
 
