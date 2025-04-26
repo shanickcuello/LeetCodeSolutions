@@ -186,7 +186,8 @@ Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/
 
 [Solution](https://github.com/shanickcuello/LeetCodeSolutions/blob/main/C%23Solutions/LeetCodeSolutions/Scripts/TwoSumII.cs)
 
-![image](https://github.com/user-attachments/assets/2ab08d74-af75-4239-a3e9-03760f9b6b69) ![image](https://github.com/user-attachments/assets/1bc96a81-d771-4fe2-a2e6-10e0c3a6dc34)
+![image](https://github.com/user-attachments/assets/2ab08d74-af75-4239-a3e9-03760f9b6b69) ![image](https://github.com/user-attachments/assets/e57209f7-bd2a-4f65-8aee-6abd32e252c7)
+
 
 
 
