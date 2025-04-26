@@ -179,6 +179,16 @@ Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/
 
 <img width="702" alt="image" src="https://github.com/user-attachments/assets/55c2db29-7fc9-46a3-9662-f6ec50f6c8cf" />
 
+# 167. Two Sum II - Input Array Is Sorted
+
+[LeetCode challenge
+](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)
+
+[Solution](https://github.com/shanickcuello/LeetCodeSolutions/blob/main/C%23Solutions/LeetCodeSolutions/Scripts/TwoSumII.cs)
+
+![image](https://github.com/user-attachments/assets/2ab08d74-af75-4239-a3e9-03760f9b6b69)
+
+
 
 
 
