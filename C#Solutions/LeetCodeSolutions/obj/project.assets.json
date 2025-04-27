@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\shani\\.nuget\\packages\\": {}
+    "/Users/vidar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\shani\\projects\\LeetCodeSolutions\\C#Solutions\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
+      "projectUniqueName": "/Users/vidar/root/repositories/LeetCodeSolutions/C#Solutions/LeetCodeSolutions/LeetCodeSolutions.csproj",
       "projectName": "LeetCodeSolutions",
-      "projectPath": "C:\\Users\\shani\\projects\\LeetCodeSolutions\\C#Solutions\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
-      "packagesPath": "C:\\Users\\shani\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\shani\\projects\\LeetCodeSolutions\\C#Solutions\\LeetCodeSolutions\\obj\\",
+      "projectPath": "/Users/vidar/root/repositories/LeetCodeSolutions/C#Solutions/LeetCodeSolutions/LeetCodeSolutions.csproj",
+      "packagesPath": "/Users/vidar/.nuget/packages/",
+      "outputPath": "/Users/vidar/root/repositories/LeetCodeSolutions/C#Solutions/LeetCodeSolutions/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shani\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/vidar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -38,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net7.0": {
@@ -54,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\shani\\.dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

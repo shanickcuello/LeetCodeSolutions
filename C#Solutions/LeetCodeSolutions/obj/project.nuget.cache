@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k8g1e10T5aeVx9vGTLSH9/wPybaqNlFq9/8wXp9NRzI7WF3BCrO2ycVJC7pU4QoOVZ/yxQhQxmG4FfFGHZSUHw==",
+  "dgSpecHash": "SNjxJz790ig=",
   "success": true,
-  "projectFilePath": "C:\\Users\\shani\\projects\\LeetCodeSolutions\\C#Solutions\\LeetCodeSolutions\\LeetCodeSolutions.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/vidar/root/repositories/LeetCodeSolutions/C#Solutions/LeetCodeSolutions/LeetCodeSolutions.csproj",
+  "expectedPackageFiles": [
+    "/Users/vidar/.nuget/packages/microsoft.netcore.app.ref/7.0.20/microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/vidar/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.20/microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "/Users/vidar/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.20/microsoft.netcore.app.host.osx-arm64.7.0.20.nupkg.sha512"
+  ],
   "logs": []
 }
