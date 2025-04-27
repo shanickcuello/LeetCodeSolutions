@@ -188,6 +188,14 @@ Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/
 
 ![image](https://github.com/user-attachments/assets/2ab08d74-af75-4239-a3e9-03760f9b6b69) ![image](https://github.com/user-attachments/assets/e57209f7-bd2a-4f65-8aee-6abd32e252c7)
 
+# 15. 3Sum
+
+[LeetCodeChallenge](https://leetcode.com/problems/3sum/)
+
+[Solution](https://github.com/shanickcuello/LeetCodeSolutions/blob/main/C%23Solutions/LeetCodeSolutions/Scripts/ThreeSum.cs)
+
+![image](https://github.com/user-attachments/assets/bd9fe631-41c2-49a0-b8e3-70d573eb04b1)
+
 
 
 
