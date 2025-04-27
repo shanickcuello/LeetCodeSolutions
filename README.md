@@ -196,6 +196,14 @@ Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/
 
 ![image](https://github.com/user-attachments/assets/bd9fe631-41c2-49a0-b8e3-70d573eb04b1)
 
+# 206. Reverse Linked List (Two pointers style)
+
+[LeetCodeChallenge](https://leetcode.com/problems/reverse-linked-list/submissions/1619484421/)
+
+[Solution](https://github.com/shanickcuello/LeetCodeSolutions/blob/main/C%23Solutions/LeetCodeSolutions/Scripts/ReverseLinkedList.cs)
+
+<img width="685" alt="image" src="https://github.com/user-attachments/assets/f56e9bde-f8dd-421a-9fe8-f68780abc6de" />
+
 
 
 
