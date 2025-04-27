@@ -21,4 +21,31 @@ Console.WriteLine("Hello, Universe!");
 // }
 #endregion
 
+#region ReverseLinkedList
+
+ListNode head = new ListNode(1, 
+    new ListNode(2, 
+        new ListNode(3, 
+            new ListNode(4, 
+                new ListNode(5)))));
+
+Console.WriteLine("Original List:");
+PrintList(head);
+
+Solution solution = new Solution();
+ListNode reversedHead = ReverseLinkedList.Solution.ReverseList(head);
+
+Console.WriteLine("Reversed List:");
+PrintList(reversedHead);
+static void PrintList(ListNode head)
+{
+    ListNode current = head;
+    while (current != null)
+    {
+        Console.Write(current.val + " -> ");
+        current = current.next;
+    }
+    Console.WriteLine("null");
+}
+#endregion
 Console.ReadLine();
