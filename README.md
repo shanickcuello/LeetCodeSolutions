@@ -204,6 +204,15 @@ Check the code [here](https://github.com/shanickcuello/LeetCodeSolutions/commit/
 
 <img width="685" alt="image" src="https://github.com/user-attachments/assets/f56e9bde-f8dd-421a-9fe8-f68780abc6de" />
 
+# 706. Design HashMap
+
+[LeetCodeChallenge](https://leetcode.com/problems/design-hashmap/)
+
+[Solution](https://github.com/shanickcuello/LeetCodeSolutions/blob/main/C%23Solutions/LeetCodeSolutions/Scripts/DesignHashMap.cs)
+
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/0895387a-e596-41b6-b51d-c75f1f77a734" />
+
+
 
 
 
